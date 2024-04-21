@@ -14,11 +14,13 @@ const Guide = () => {
             Guide You To An Easy path
           </h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">
-            Only with the hilink application you will no longer get lost and get
-            lost again, because we already support offline maps when there is no
-            internet connection in the field. Invite your friends, relatives and
-            friends to have fun in the wilderness through the valley and reach
-            the top of the mountain
+            Only with the{" "}
+            <span className="text-green-300 bold-20">CAMP&TRAVEL</span>{" "}
+            application you will no longer get lost and get lost again, because
+            we already support offline maps when there is no internet connection
+            in the field. Invite your friends, relatives and friends to have fun
+            in the wilderness through the valley and reach the top of the
+            mountain
           </p>
         </div>
       </div>
